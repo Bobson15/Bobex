@@ -227,7 +227,7 @@ nav .icon {
 
 
 .sekcja3{
-    height: auto;
+    height: 1200px;
     background-color: rgb(189, 189, 189);
 }
 .card {
@@ -599,6 +599,10 @@ footer p{
         justify-content: flex-start;
         flex-direction: column;
         margin-right: 195px;
+    }
+    .sekcja3{
+        height: auto;
+        background-color: rgb(189, 189, 189);
     }
   }
 
